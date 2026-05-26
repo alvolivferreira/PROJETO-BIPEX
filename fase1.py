@@ -1,4 +1,4 @@
-#                                ***PROJETO BIPEX. ☠  ***
+#                                ***PROJETO BIPEX. FASE 2 ☠  ***
 
 from inputimeout import inputimeout, TimeoutOccurred
 
